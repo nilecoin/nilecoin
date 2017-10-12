@@ -1,7 +1,7 @@
-#Nilecoin development tree
+Nilecoin development tree
 
 Nilecoin is a PoW-based cryptocurrency.
-#Development process
+Development process
 
 Developers work in their own trees, then submit pull requests when they think their feature or bug fix is ready.
 
